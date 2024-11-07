@@ -7,8 +7,6 @@ import dart from "../assets/img/dart.svg"
 import html5 from "../assets/img/html5.svg"
 import Carousel from 'react-multi-carousel';
 import 'react-multi-carousel/lib/styles.css';
-import colorSharp from "../assets/img/color-sharp.png"
-
 
 export const Skills = () => {
   const responsive = {

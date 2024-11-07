@@ -3,7 +3,6 @@ import { ProjectCard } from "./ProjectCard";
 import projImg1 from "../assets/img/project-img1.jpg";
 import projImg2 from "../assets/img/project-img2.jpg";
 import projImg3 from "../assets/img/project-img3.jpg";
-import colorSharp2 from "../assets/img/color-sharp2.png";
 import 'animate.css';
 import TrackVisibility from 'react-on-screen';
 
@@ -14,19 +13,19 @@ export const Projects = () => {
       title: "KMUNITY",
       description: "Library Mobile Application",
       imgUrl: projImg1,
-      url: "https://github.com/username/kmunity" 
+      url: "https://github.com/Slippy03/KMUNITY" 
     },
     {
       title: "Flutter Coffee Shop App",
       description: "Design & Development",
       imgUrl: projImg2,
-      url: "https://github.com/username/flutter-coffee-shop" 
+      url: "https://github.com/Slippy03/Project-Flutter-Clone-App" 
     },
     {
       title: "RiceGuard",
       description: "Farmer Helper App Thesis",
       imgUrl: projImg3,
-      url: "https://github.com/username/riceguard" 
+      url: "https://github.com/Slippy03/Project_2024" 
     },
   ];
 
@@ -57,7 +56,6 @@ export const Projects = () => {
           </Col>
         </Row>
       </Container>
-      <img className="background-image-right" src={colorSharp2} alt="background decoration"></img>
     </section>
   );
 };

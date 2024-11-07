@@ -10,7 +10,6 @@ export const Footer = () => {
         <br/>
         <Row className="align-items-center">
           <Col size={12} sm={6}>
-          <h1 style={{color:"while"}}>TPP</h1>
           </Col>
           <Col size={12} sm={6} className="text-center text-sm-end">
             <div className="social-icon">
