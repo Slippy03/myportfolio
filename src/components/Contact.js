@@ -28,7 +28,7 @@ export const Contact = () => (
                   <a href="mailto:phattharaphon.p03@gmail.com">Email : phattharaphon.p03@gmail.com</a><br />
                   <a href="https://www.instagram.com/taxwy03/">Instagram : taxwy03</a><br />
                   <a href="https://www.facebook.com/TAOWY5678/">Facebook : Phattharaphon Puangngam</a><br />
-                  <a href="https://drive.google.com/file/d/1WYnQsFcXiuV_NGuX-GpRBtrUWME_A5hm/view?usp=drive_link">My Resume</a>
+                  <a href="https://drive.google.com/file/d/1BsHZjkK2bh-VTBvcwDl-qnqCBz0z4J1G/view?usp=sharing">My Resume</a>
                 </div>
               </div>
             }
